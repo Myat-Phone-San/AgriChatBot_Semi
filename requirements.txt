@@ -1,0 +1,7 @@
+streamlit
+mysql-connector-python
+scikit-learn
+joblib
+nltk
+numpy
+requests # Make sure this is present or add it
