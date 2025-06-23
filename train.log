@@ -1,0 +1,19 @@
+2025-06-21 14:20:35,670 - INFO - Connected to database successfully.
+2025-06-21 14:20:35,912 - INFO - Loaded 122 questions and answers from database.
+2025-06-21 14:20:36,000 - INFO - Vectorized 122 questions with 138 features.
+2025-06-21 14:20:36,021 - INFO - Model and data files saved successfully.
+2025-06-21 14:29:32,776 - INFO - Starting model training process...
+2025-06-21 14:29:34,219 - INFO - Connected to database successfully.
+2025-06-21 14:29:34,430 - INFO - Loaded 122 questions and answers from database for training.
+2025-06-21 14:29:34,724 - INFO - Vectorized 122 questions with 138 features.
+2025-06-21 14:29:34,753 - INFO - Model (vectorizer, question_vectors) and data (answers_for_similarity, original_questions_for_debug) files saved successfully.
+2025-06-21 14:29:34,754 - INFO - Model training process finished.
+2025-06-21 14:39:56,958 - INFO - Starting model training process...
+2025-06-21 14:39:57,035 - INFO - Starting data loading for training...
+2025-06-21 14:39:57,893 - INFO - Connected to database successfully.
+2025-06-21 14:39:58,006 - INFO - Loaded 122 questions and answers from database in 0.97 seconds.
+2025-06-21 14:39:58,018 - INFO - Starting TF-IDF vectorization...
+2025-06-21 14:39:58,287 - INFO - Vectorized 122 questions with 138 features in 0.27 seconds.
+2025-06-21 14:39:58,287 - INFO - Starting model and data saving...
+2025-06-21 14:39:58,313 - INFO - Model and data files saved successfully in 0.03 seconds.
+2025-06-21 14:39:58,314 - INFO - Total model training process finished in 1.28 seconds.

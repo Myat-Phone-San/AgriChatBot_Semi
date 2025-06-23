@@ -4,6 +4,6 @@ db_settings = {
     "host": "localhost",
     "user": "root",
     "password": "",
-    "database": "semi_nltkchatbot",
+    "database": "API_chatbot_agriculture",
     "charset": "utf8mb4"
 }
